@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador Javascript  Full Stack<br><br>Amor por el código, los viajes y los tatuajes
+**Desarrollador Javascript  Full Stack**<br><br>Amor por el código, los viajes, los tacos y los tatuajes
 
 
 ## 🌐 Socials:
